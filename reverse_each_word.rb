@@ -13,7 +13,7 @@ def reverse_each_word(sentence)
     sentence2.push(sent.reverse)
     # binding.pry
  end
- sentence2.join("")
+ sentence2.join(" ")
 end
 
 
